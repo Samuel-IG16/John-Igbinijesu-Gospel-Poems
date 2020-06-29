@@ -1,0 +1,25 @@
+#right{
+  float: right;
+}
+summary{
+  width: 100px;
+  background-color: white;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+}
+details{
+  background-color: #eeeeee;
+  margin: 0;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  border: none;
+}
+.footer{
+  color: white;
+  padding:20px;
+  text-align:center;
+  background:dimgray;
+  border-radius: 15px;
+}
+body{
+  padding-top: 80px;
+}
