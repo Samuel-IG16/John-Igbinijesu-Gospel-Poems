@@ -24,6 +24,6 @@ body{
   padding-top: 80px;
 }
 .John {
-  width: 100%;
+  max-width: 100%;
   height: auto;
 }
