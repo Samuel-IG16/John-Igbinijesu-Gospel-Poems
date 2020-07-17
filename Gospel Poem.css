@@ -23,3 +23,8 @@ details{
 body{
   padding-top: 80px;
 }
+@media (max-width: 550px){
+  #header .bottom-header h1 {
+    font-size: 30px;
+    line-height: 45px;
+  }
