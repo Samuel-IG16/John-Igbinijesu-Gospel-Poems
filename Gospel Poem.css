@@ -24,7 +24,7 @@ body{
   padding-top: 80px;
 }
 
- {font-size:1rem;} /*1rem = 16px*/
+h1{font-size:1rem;} /*1rem = 16px*/
 @media (min-width: 544px) {  
   h1 {font-size:1.5rem;} /*1rem = 16px*/
 }
